@@ -1,5 +1,7 @@
 ---
 title: 基于Hexo的个人Blog构建
+categories: other
+date: 2017/10/01
 ---
 Hexo:https://hexo.io/zh-cn/docs/
 Git Page
