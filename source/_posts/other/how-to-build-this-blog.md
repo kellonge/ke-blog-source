@@ -18,6 +18,8 @@ MarkEditor
 1. categry & tag
 2. use git to manager blog source
 3. how to create a post
+4. 域名
+5. 其他空间
 
 0. 准备依赖程序
 1. 安装`Hexo`
